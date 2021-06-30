@@ -1,0 +1,26 @@
+.dropdown button{
+    margin-left: 80px;
+    background-color: darkgrey;
+}
+
+.buttons{
+    background-color: darkgrey;
+    width: 116px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 80px;
+}
+.buttons p{
+    display: flex;
+    align-items: center;
+    background-color: darkgrey;
+    width: 60px;
+    color: black;
+    text-decoration: none;
+    border: none;
+    border-bottom: none;
+    list-style: none;
+    margin-left: 0px;
+} 
+         

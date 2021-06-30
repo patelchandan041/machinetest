@@ -1,0 +1,25 @@
+.navbar{
+    background-color: lightgray;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.navbar > h2{
+    margin-left: 50px;
+    color: darkgrey;
+}
+.navbar  ul{
+    display: flex;
+    
+    }
+.navbar ul > li{
+    color: lightgray;
+    text-decoration: none;
+    margin-left: 50px;
+    cursor: pointer;
+    
+}
+.navbar >  ul > li:hover{
+background-color: black;
+}
